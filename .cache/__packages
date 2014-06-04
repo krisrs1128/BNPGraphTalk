@@ -1,0 +1,10 @@
+base
+BNPgraph
+devtools
+ggplot2
+igraph
+knitr
+plyr
+reshape2
+rgl
+slidify
